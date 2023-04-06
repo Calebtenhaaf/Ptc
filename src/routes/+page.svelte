@@ -14,3 +14,28 @@ import Score from "../components/score.svelte";
     answer4="All the above"
     This is my question
 </Question>
+
+<Question number ={2}>
+    answer1="First answer"
+    answer2="second answer"
+    answer3="Third answer"
+    answer4="All the above"
+    This is my question
+</Question>
+
+<Question number ={3}>
+    answer1="First answer"
+    answer2="second answer"
+    answer3="Third answer"
+    answer4="All the above"
+    This is my question
+</Question>
+
+<Question number ={4}>
+    answer1="First answer"
+    answer2="second answer"
+    answer3="Third answer"
+    answer4="All the above"
+    This is my question
+</Question>
+

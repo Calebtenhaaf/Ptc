@@ -28,3 +28,17 @@
     D: {answer1}
 </label>
 
+<scripts>
+    export let answer = false;
+</scripts>
+{#if answer}
+
+<p>
+    Correct!
+</p>
+
+<p>
+    Nope, not that one
+</p>
+
+{/if}
