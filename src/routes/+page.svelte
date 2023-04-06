@@ -8,7 +8,7 @@ import Score from "../components/score.svelte";
 <Score score={14} />
 
 <Question number ={1}>
-    answer1="First answer"
+    answer1"First answer"
     answer2="second answer"
     answer3="Third answer"
     answer4="All the above"

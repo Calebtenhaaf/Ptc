@@ -31,7 +31,7 @@
 <scripts>
     export let answer = false;
 </scripts>
-{#if answer}
+{#if answer1}
 
 <p>
     Correct!
