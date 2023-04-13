@@ -7,7 +7,7 @@
 <style>
     .background {
         padding: 16px;
-        
+
         position: absolute;
         inset: 0;
 
@@ -20,3 +20,19 @@
         margin: 0 auto;
     }
 </style>
+
+input[type=checkbox] {
+    accent-color: red;
+}
+
+input[type=radio] {
+    accent-color: green;
+}
+
+input[type=range] {
+    accent-color: rgb(0, 0, 255);
+}
+
+progress {
+    accent-color: hsl(39, 100%, 50%);
+}
