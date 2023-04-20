@@ -5,7 +5,7 @@ import Score from "../components/score.svelte";
 </script>
 <h1>Welcome to SvelteKit</h1>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-<Score score={14} />
+<Score score={0} />
 
 <Question number ={1}>
     answer1"First answer"
